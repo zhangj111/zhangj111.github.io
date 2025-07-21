@@ -14,16 +14,16 @@ The full list can be found at <a href="https://scholar.google.com/citations?user
 
 ---
 1. **Repair Ingredients Are All You Need: Improving Large Language Model-Based Program Repair via Repair Ingredients Search**  
-   Jiayi Zhang, Kai Huang, **Jian Zhang***, Yang Liu, Chunyang Chen  
+   Jiayi Zhang, Kai Huang, **Jian Zhang**\*, Yang Liu, Chunyang Chen  
    *48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)*
 1. **Element-Based Automated DNN Repair with Fine-Tuned Masked Language Model**  
    Xu Wang, Mingming Zhang, Xiangxin Meng, **Jian Zhang**, Yang Liu, Chunming Hu  
    *Proceedings of the ACM on Software Engineering (FSE 2025)*
 1. **Comprehensive Fine-Tuning Large Language Models of Code for Automated Program Repair**  
-   Kai Huang, **Jian Zhang***, Xinlei Bao, Xu Wang, Yang Liu  
+   Kai Huang, **Jian Zhang**\*, Xinlei Bao, Xu Wang, Yang Liu  
    *IEEE Transactions on Software Engineering (TSE 2025)*
 1. **Teaching Code LLMs to Use Autocompletion Tools in Repository-Level Code Generation**  
-   Chong Wang, **Jian Zhang***, Yebo Feng, Tianlin Li, Weisong Sun, Yang Liu, Xin Peng  
+   Chong Wang, **Jian Zhang**\*, Yebo Feng, Tianlin Li, Weisong Sun, Yang Liu, Xin Peng  
    *ACM Transactions on Software Engineering and Methodology (TOSEM 2025)*
 1. **VulAdvisor: Natural Language Suggestion Generation for Software Vulnerability Repair**  
    **Jian Zhang**, Chong Wang, Anran Li, Wenhan Wang, Tianlin Li, Yang Liu  
