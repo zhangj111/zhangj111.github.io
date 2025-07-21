@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 ## 👋 Welcome
----
 Dr. Jian Zhang is a Research Fellow at [Nanyang Technological University](https://www.ntu.edu.sg/), working with [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/). His research lies at the intersection of Artificial Intelligence and Software Engineering, with a particular focus on applying deep learning techniques to software maintenance tasks such as bug detection, code summarization, and vulnerability analysis.
 He received his Ph.D. in Computer Science from [Beihang University](https://www.buaa.edu.cn/), where he was advised by  [Prof. Xudong Liu](https://scse.buaa.edu.cn/info/1078/2646.htm). He also holds a B.S. degree from the same institution.
 Dr. Zhang has published in top-tier venues such as ICSE, ASE, FSE and ISSTA, and his work aims to improve software reliability, maintainability, and security through intelligent automation.
