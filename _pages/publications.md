@@ -21,7 +21,7 @@ The full list can be found at <a href="https://scholar.google.com/citations?user
    *47th IEEE/ACM International Conference on Software Engineering, (ICSE 2025)*  
 1. **Comprehensive Fine-Tuning Large Language Models of Code for Automated Program Repair**  
    Kai Huang, **Jian Zhang**\*, Xinlei Bao, Xu Wang, Yang Liu  
-   *IEEE Transactions on Software Engineering (TSE 2025)*
+   *IEEE Transactions on Software Engineering (TSE 2025)* [\[PDF\]](http://zhangj111.github.io/files/TSE25_LLM4APR.pdf)
 1. **Element-Based Automated DNN Repair with Fine-Tuned Masked Language Model**  
    Xu Wang, Mingming Zhang, Xiangxin Meng, **Jian Zhang**, Yang Liu, Chunming Hu  
    *Proceedings of the ACM on Software Engineering (FSE 2025)*
