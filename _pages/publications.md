@@ -13,9 +13,12 @@ redirect_from:
 The full list can be found at <a href="https://scholar.google.com/citations?user=ki1y5TQAAAAJ&hl=en">Google Scholar</a>. <i>(* for corresponding author)</i>
 
 ---
+1. **Seeing is Fixing: Cross-Modal Reasoning with Multimodal LLMs for Visual Software Issue Fixing**  
+   Kai Huang, **Jian Zhang**\*, Xiaofei Xie, Chunyang Chen  
+   *40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)* [\[PDF\]](https://arxiv.org/pdf/2506.16136)
 1. **Repair Ingredients Are All You Need: Improving Large Language Model-Based Program Repair via Repair Ingredients Search**  
    Jiayi Zhang, Kai Huang, **Jian Zhang**\*, Yang Liu, Chunyang Chen  
-   *48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)*
+   *48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)* [\[PDF\]](https://arxiv.org/pdf/2506.23100)
 1. **LLMs Meet Library Evolution: Evaluating Deprecated API Usage in LLM-based Code Completion**  
    Chong Wang, Kaifeng Huang, **Jian Zhang**, Yebo Feng, Lyuye Zhang, Yang Liu, Xin Peng  
    *47th IEEE/ACM International Conference on Software Engineering, (ICSE 2025)*  
