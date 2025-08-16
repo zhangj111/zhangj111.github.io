@@ -30,7 +30,7 @@ The full list can be found at <a href="https://scholar.google.com/citations?user
    *Proceedings of the ACM on Software Engineering (FSE 2025)*
 1. **Teaching Code LLMs to Use Autocompletion Tools in Repository-Level Code Generation**  
    Chong Wang, **Jian Zhang**\*, Yebo Feng, Tianlin Li, Weisong Sun, Yang Liu, Xin Peng  
-   *ACM Transactions on Software Engineering and Methodology (TOSEM 2025)*
+   *ACM Transactions on Software Engineering and Methodology (TOSEM 2025)* [\[PDF\]](https://arxiv.org/pdf/2401.06391)
 1. **VulAdvisor: Natural Language Suggestion Generation for Software Vulnerability Repair**  
    **Jian Zhang**, Chong Wang, Anran Li, Wenhan Wang, Tianlin Li, Yang Liu  
    *39th IEEE/ACM International Conference on Automated Software Engineering, (ASE 2024)* [\[PDF\]](http://zhangj111.github.io/files/ASE24_VulAdvisor.pdf)
@@ -39,7 +39,7 @@ The full list can be found at <a href="https://scholar.google.com/citations?user
    *47th IEEE/ACM International Conference on Software Engineering, (ICSE 2025)*  
 1. **TIGER: A Generating-Then-Ranking Framework for Practical Python Type Inference**  
    Chong Wang, **Jian Zhang**\*, Yiling Lou, Mingwei Liu, Weisong Sun, Yang Liu, Xin Peng  
-   *47th IEEE/ACM International Conference on Software Engineering (ICSE 2025)*
+   *47th IEEE/ACM International Conference on Software Engineering (ICSE 2025)* [\[PDF\]](https://arxiv.org/pdf/2407.02095)
 
 1. **Template-Guided Program Repair in the Era of Large Language Models**  
    Kai Huang, **Jian Zhang**\*, Xiangxin Meng, Yang Liu  
@@ -47,11 +47,11 @@ The full list can be found at <a href="https://scholar.google.com/citations?user
 
 1. **PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software**  
    Kaixuan Li, **Jian Zhang**\*, Sen Chen, Han Liu, Yang Liu, Yixiang Chen  
-   *33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024)*
+   *33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024)* [\[PDF\]](https://dl.acm.org/doi/pdf/10.1145/3650212.3680305)
 
 1. **Historical Embedding-Guided Efficient Large-Scale Federated Graph Learning**  
    Anran Li, Yuanyuan Chen, **Jian Zhang**\*, Mingfei Cheng, Yihao Huang, Yueming Wu, Anh Tuan Luu, Han Yu\*  
-   *ACM SIGMOD International Conference on Management of Data (SIGMOD 2024)*
+   *ACM SIGMOD International Conference on Management of Data (SIGMOD 2024)* [\[PDF\]](https://dl.acm.org/doi/pdf/10.1145/3654947)
 
 1. **BadEdit: Backdooring Large Language Models by Model Editing**  
    Yanzhou Li, Kangjie Chen, Tianlin Li, **Jian Zhang**, Shangqing Liu, Wenhan Wang, Tianwei Zhang, Yang Liu  
