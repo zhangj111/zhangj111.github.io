@@ -21,12 +21,11 @@ Beyond research, he enjoys mentoring students, contributing to academic reviewin
 
 ---
 <div style="border-left: 4px solid #aaa; padding: 10px 15px; background-color: #f9f9f9; font-style: italic; margin: 20px 0;">
-  Outside research, I find balance through music and hiking, and I'm curious about how creative thinking and mindfulness support deeper, more effective approaches to solving technical challenges.
+ In my free time, I enjoy playing music and going hiking. These help me disconnect from complex technical work and often lead to new ideas when I return to the problem.
 </div>
 
 
----
--->
+
 <!--
 <div class="footer" style="padding-left: 6px; font-weight: bold; color: #000000; text-align: center; font-size: 1.5em;">
   <table align="center" style="height: 100px; width: 100px;">
