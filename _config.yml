@@ -80,7 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jian Zhang (张建)"
+  name             : |
+  Jian Zhang
+  (张建)
   avatar           : "jianzhang.jpg"
   bio              : "Associate Professor at BUAA"
   location         : "China"
