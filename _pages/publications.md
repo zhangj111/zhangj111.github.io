@@ -24,7 +24,8 @@ The full list can be found at <a href="https://scholar.google.com/citations?user
    *Network and Distributed System Security Symposium (NDSS 2026)* 
 1. **Seeing is Fixing: Cross-Modal Reasoning with Multimodal LLMs for Visual Software Issue Repair**  
    Kai Huang, **Jian Zhang**\*, Xiaofei Xie, Chunyang Chen  
-   *40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)* [\[PDF\]](https://arxiv.org/pdf/2506.16136)
+   *40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)* [\[PDF\]](https://arxiv.org/pdf/2506.16136)  
+   🏆<font color="red">ACM SIGSOFT Distinguished Paper Award</font>
 1. **Repair Ingredients Are All You Need: Improving Large Language Model-Based Program Repair via Repair Ingredients Search**  
    Jiayi Zhang, Kai Huang, **Jian Zhang**\*, Yang Liu, Chunyang Chen  
    *48th IEEE/ACM International Conference on Software Engineering (ICSE 2026)* [\[PDF\]](https://arxiv.org/pdf/2506.23100)
