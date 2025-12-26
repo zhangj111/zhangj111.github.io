@@ -13,6 +13,9 @@ redirect_from:
 The full list can be found at <a href="https://scholar.google.com/citations?user=ki1y5TQAAAAJ&hl=en">Google Scholar</a>. <i>(* for corresponding author)</i>
 
 ---
+1. **Evaluating Large Language Models for Line-Level Vulnerability Localization**    
+   **Jian Zhang**, Chong Wang, Anran Li, Weisong Sun, Cen Zhang, Wei Ma, Yang Liu  
+   *IEEE Transactions on Software Engineering (TSE 2026)* 
 1. **GadgetHunter: Region-Based Neuro-Symbolic Detection of Java Deserialization Vulnerabilities**  
    Kaixuan Li, **Jian Zhang**\*, Chong Wang, Sen Chen, Zong Cao, Min Zhang, Yang Liu  
    *ACM International Conference on the Foundations of Software Engineering (FSE 2026)*  
