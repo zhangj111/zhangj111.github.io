@@ -16,9 +16,8 @@ Beyond research, he enjoys mentoring students, contributing to academic reviewin
 
 
 <div style="border: 1px solid #ccc; padding: 15px; background-color: #f9f9f9; border-radius: 6px; margin: 20px 0;">
-  <strong>🤝 Interested in Collaborating?</strong><br/>
-  I’m always open to collaboration opportunities, particularly in the areas of <strong>AI4SE</strong> and <strong>secure code analysis</strong>. 
-  Feel free to <a href="mailto:zhangj3353@gmail.com">reach out</a>!
+  <strong>🎓 Student Recruitment</strong><br/>
+  I am actively looking for motivated Master’s and Ph.D. students with strong interests in AI for software engineering and security. Please feel free to contact me via email with your CV and research interests. Contact: zhangj3353 [at] buaa [dot] edu [dot] cn
 </div>
 
 ---
