@@ -11,6 +11,7 @@ redirect_from:
 ---
 
 ### Conference Program Committees
++ 41th IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)
 + 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)
 + The 41st Annual Computer Security Applications Conference (ACSAC 2025)
 + The 2025 ACM Web Conference (WWW 2025)
