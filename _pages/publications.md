@@ -13,6 +13,9 @@ redirect_from:
 The full list can be found at <a href="https://scholar.google.com/citations?user=ki1y5TQAAAAJ&hl=en">Google Scholar</a>. <i>(* for corresponding author)</i>
 
 ---
+1. **Project-Scale Statement-Level Fault Localization via Multi-View  Semantic Learning and Pairwise Reranking**  
+   Hongwei Yu, Xu Wang, **Jian Zhang**, Xiangxin Meng, Jiarui Li, Yang Liu, Chunming Hu  
+   *35th SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)*  
 1. **Evaluating Large Language Models for Line-Level Vulnerability Localization**    
    **Jian Zhang**, Chong Wang, Anran Li, Weisong Sun, Cen Zhang, Wei Ma, Yang Liu  
    *IEEE Transactions on Software Engineering (TSE 2026)* 
