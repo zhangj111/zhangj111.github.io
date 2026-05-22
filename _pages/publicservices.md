@@ -11,6 +11,7 @@ redirect_from:
 ---
 
 ### Conference Program Committees
++ ACM International Conference on the Foundations of Software Engineering (FSE 2027)
 + 41th IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)
 + 40th IEEE/ACM International Conference on Automated Software Engineering (ASE 2025)
 + The 41st Annual Computer Security Applications Conference (ACSAC 2025)
