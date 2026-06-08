@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## 👋 Welcome
-Dr. Jian Zhang is an Associate Professor at the School of Software, Beihang University, in [Prof. Chunming Hu](https://soft.buaa.edu.cn/teachershouw.jsp?urltype=news.NewsContentUrl&wbtreeid=1224&wbnewsid=9599)’s team. Previously, he was a Research Fellow at Nanyang Technological University, working with [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/). He received his Ph.D. in Computer Science from Beihang University, where he was supervised by [Prof. Xudong Liu](https://scse.buaa.edu.cn/info/1078/2646.htm), and advised by [Prof. Xu Wang](http://xuwang.tech/) and [Prof. Hongyu Zhang](https://hongyujohn.github.io/). He also holds a B.S. degree from the same institution.  
+Dr. Jian Zhang is an Associate Professor at the School of Software, Beihang University. Previously, he was a Research Fellow at Nanyang Technological University, working with [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/). He received his Ph.D. in Computer Science from Beihang University, where he was supervised by [Prof. Xudong Liu](https://scse.buaa.edu.cn/info/1078/2646.htm), and advised by [Prof. Xu Wang](http://xuwang.tech/) and [Prof. Hongyu Zhang](https://hongyujohn.github.io/). He also holds a B.S. degree from the same institution.  
 
 His research focuses on advancing software engineering by integrating AI techniques into source code analysis to support maintenance tasks such as bug detection, vulnerability analysis, and program repair. Dr. Zhang has published in top-tier venues such as ICSE, ASE, FSE, and ISSTA, and his work aims to improve software reliability, maintainability, and security through intelligent automation.  
 
