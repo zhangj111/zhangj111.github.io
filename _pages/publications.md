@@ -13,6 +13,9 @@ redirect_from:
 The full list can be found at <a href="https://scholar.google.com/citations?user=ki1y5TQAAAAJ&hl=en">Google Scholar</a>. <i>(* for corresponding author)</i>
 
 ---
+1. **How Quantum Bugs Live and Die: A Lifecycle-Based Empirical Study of Bugs in Quantum Software**  
+   Yasai Shi, Xiangxin Meng, Xiangjie Huang, **Jian Zhang**, Tianyu Wo, Xu Wang  
+   *41st IEEE/ACM International Conference on Automated Software Engineering (ASE 2026)*
 1. **Project-Scale Statement-Level Fault Localization via Multi-View  Semantic Learning and Pairwise Reranking**  
    Hongwei Yu, Xu Wang, **Jian Zhang**, Xiangxin Meng, Jiarui Li, Yang Liu, Chunming Hu  
    *35th SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2026)*  
