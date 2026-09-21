@@ -89,6 +89,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ki1y5TQAAAAJ&hl=en"
+  dblp             : "https://dblp.org/pid/07/314-87.html"
   email            : "zhangj3353@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
